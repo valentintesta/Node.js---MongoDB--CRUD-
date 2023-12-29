@@ -1,0 +1,2 @@
+# Node.js - MongoDB (CRUD)
+ The project involves the development of an application that allows performing CRUD operations (Create, Read, Update, Delete) on tasks stored in the database.  Tech Stack:  Node.js: Used as the runtime environment for the server, enabling the execution of JavaScript code on the server side. Express: Node.js framework that facilitates the creation of the RESTful API, handling routes, HTTP requests, and responses. MongoDB Atlas: Cloud-based database service that provides the storage layer for the system's tasks.
